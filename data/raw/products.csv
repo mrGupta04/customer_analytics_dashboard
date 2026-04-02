@@ -1,0 +1,10 @@
+product_id,product_name,category,unit_price
+P001,Widget A,Gadgets,100.00
+P002,Widget B,Gadgets,80.00
+P003,Widget C,Electronics,200.00
+P004,Widget D,Accessories,160.00
+P005,Widget E,Electronics,300.00
+P006,Widget F,Accessories,90.00
+P007,Widget G,Tools,140.00
+P008,Widget H,Tools,130.00
+P009,Widget Prime,Premium,500.00

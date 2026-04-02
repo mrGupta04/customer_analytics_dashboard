@@ -1,0 +1,35 @@
+customer_id,name,email,region,signup_date
+C001, Aarav Sharma ,AARAV.SHARMA@example.com, North ,2024-01-05
+C002,Diya Verma,diya.verma@example,West,15/02/2024
+C003, Rohan Iyer ,rohan.iyer@example.com, ,2024-03-10
+C004,Neha Kulkarni,,South,03-28-2024
+C005,Priya Nair,priya.nair@example.com,East,2024/04/15
+C006, Kunal Mehta ,kunal.mehta@example.com,North,2024-05-01
+C007,Sneha Reddy,sneha.reddy@@example.com,West,2024-06-12
+C008,Harsh Patel,harsh.patel@example.com,,2024-07-07
+C009,Ishaan Khan,ishaan.khan@example.com,South,2024-08-20
+C010,Ananya Das,ananya.das@example.com,East,2024-09-11
+C002,Diya Verma,diya.verma@example.com, West,2024-10-01
+C004,Neha Kulkarni,neha.kulkarni@example.com,South,2024-12-05
+C011,Farhan Ali,farhan.aliexample.com,North,2025-01-10
+C012, Meera Joshi ,meera.joshi@example.com, ,not_a_date
+C013,Vikram Singh,vikram.singh@example.com,Central,2025-03-22
+C014,Pooja Bhat,pooja.bhat@example.com,,2025-02-14
+C015,Ritesh Ghosh,ritesh.ghosh@example.com,West,2025-02-28
+C016,Sanya Kapoor,sanya.kapoor@example.com,North,2025-03-01
+C017,Aditya Rao,aditya.rao@example.com,East,03/03/2025
+C018,Nisha Menon,nisha.menon@example.com,South,2025-03-05
+C019,Dev Malhotra,dev.malhotra@example.com,West,03-08-2025
+C020, Kavya Pillai ,kavya.pillai@example.com,,2025-03-10
+C021,Tanmay Gupta,tanmay.gupta@example.com,North,2025-03-14
+C022,Simran Kaur,simran.kaur@example,East,2025-03-18
+C023,Arjun Banerjee,arjun.banerjee@example.com,Central,2025-03-19
+C024,Bhavna Chawla,bhavna.chawla@example.com,South,2025-03-21
+C025,Yash Thakur,yash.thakur@example.com,West,2025-03-23
+C026,Riya Sethi,riya.sethi@example.com,East,2025-03-24
+C027,Om Prakash,om.prakash@example.com,North,2025-03-25
+C028,Manvi Arora,manvi.arora@example.com,,2025-03-26
+C029,Siddharth Jain,siddharth.jain@example.com,South,2025-03-27
+C030,Lakshmi Iyer,lakshmi.iyer@example.com,East,2025-03-28
+C018,Nisha Menon,nisha.menon@example.com,South,2025-03-29
+C021,Tanmay Gupta,tanmay.gupta@example.com, North ,2025-03-30

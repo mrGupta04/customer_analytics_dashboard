@@ -1,0 +1,11 @@
+customer_id,name,region,total_spend,churned
+C023,Arjun Banerjee,Central,725.75,False
+C016,Sanya Kapoor,North,620.0,False
+C030,Lakshmi Iyer,East,549.5,False
+C001,Aarav Sharma,North,521.5,False
+C025,Yash Thakur,West,448.0,False
+C011,Farhan Ali,North,429.0,False
+C003,Rohan Iyer,Unknown,412.0,False
+C014,Pooja Bhat,Unknown,406.25,False
+C015,Ritesh Ghosh,West,397.0,False
+C018,Nisha Menon,South,375.0,False
